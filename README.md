@@ -44,10 +44,6 @@ A comprehensive desktop application built with Python and Tkinter for analyzing 
 - **Responsive Design**: Organized layout with scrollable results area
 - **Interactive Controls**: Radio buttons, dropdown menus, and hover effects
 
-## 📸 Screenshots
-
-*(Add screenshots of your application here showing both the Analyze and Generate functionality)*
-
 ## 🚀 Installation
 
 ### Prerequisites
