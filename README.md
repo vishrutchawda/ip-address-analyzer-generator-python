@@ -8,7 +8,6 @@ A comprehensive desktop application built with Python and Tkinter for analyzing 
 
 ## 📋 Table of Contents
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
   - [Analyze IP Addresses](#analyze-ip-addresses)
