@@ -109,14 +109,23 @@ No. of host per network :- 2 ^ 8 approx , actual: 254
 5. **Click Generate**: View multiple network configurations
 
 #### Example Output
+
 Network 192.168.0.0:
+
 Network ID bit :- 24
+
 Host ID bit :- 8
+
 Subnet Mask in binary :- 11111111.11111111.11111111.00000000
+
 Subnet Mask in decimal :- 255.255.255.0
+
 Network IP :- 192.168.0.0
+
 Broadcast IP :- 192.168.0.255
+
 Usable IP Range :- 192.168.0.1 - 192.168.0.254
+
 No. of host per network :- 2 ^ 8 approx , actual: 254
 
 ... and 250 more networks can be created.
